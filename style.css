@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+    font-family: 'Roboto Mono', monospace;
+    box-sizing: border-box;
+  }
+  
+  .corp2{
+    background-color: rgb(228, 240, 239);
+
+  }
+  .corp1{
+    background-color: rgb(228, 240, 239);
+
+  }
+  .corp3{
+    background-color: rgb(228, 240, 239);
+
+  }
+  }
+  #a1{
+    color: hsl(175, 18.75%, 17%);
+    
+  }
+  .navbar ul{
+    list-style-type: none;
+    background-color: rgb(220, 231, 230);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+  }
+  .navbar a{
+    border:black;
+    text-decoration: none;
+    padding:15px;
+    color: rgb(0, 0, 0);
+    display: block;
+    text-align: center;
+    width: 227.5px;
+    height: 50px;
+    font-size: 20;
+    border:1px black;
+    text-transform: uppercase;
+  }
+  .navbar a:hover{
+    background-color: rgb(176, 185, 185);
+  }
+  .navbar li{
+    float: left;
+  }
+  .navbar{
+    width: 100%;
+  }
+  section{
+    width: 31%;
+    float: left;
+    border: solid rgb(176, 185, 185);
+    padding: 15px;
+    margin: 15px;
+}
+  .orar{
+    margin-left: auto;
+    margin-right: auto;
+    border-color: hsl(175, 19%, 69%);
+    width: 97%; 
+    border-spacing: 2px 2px;
+    padding: 5px;
+    text-align: left;
+    background-color: hsl(183, 38%, 84%);
+    border-collapse: none;
+  }
+  td,th{
+    text-align: left;
+    padding: 15px;
+  }
+  td,th{
+    color: hsl(175, 18.75%, 17%);
+    text-align: center;
+  }
+  .head1{
+    background-color: hsl(174.55, 18.64%, 75%);
+    font-size: 16 px;
+    text-align: center;
+  }
+  .colegi{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 97%;
+    border-color: hsl(175, 19%, 69%);
+    background-color: hsl(183, 38%, 84%);
+    padding: 2px; 
+    border-spacing: 4px 4px;
+  }
